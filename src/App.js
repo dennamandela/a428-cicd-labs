@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Selamat Datang di Belajar CI Pipeline react app</h1>
+          <h1 className="App-title">Selamat Datang di Aplikasi Belajar CI Pipeline</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Untuk memulai, edit <code>src/App.js</code> dan simpan untuk memuat ulang.
         </p>
         <p className="App-description">
           Tangerang adalah sebuah kota yang berada di Provinsi Banten, Indonesia. 
