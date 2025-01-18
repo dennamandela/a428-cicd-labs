@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Selamat Datang di Aplikasi Belajar CI Pipeline</h1>
+          <h1 className="App-title">Selamat Datang di Aplikasi Belajar CI Pipeline pokonya madep</h1>
         </header>
         <p className="App-intro">
           Untuk memulai, edit <code>src/App.js</code> dan simpan untuk memuat ulang.
