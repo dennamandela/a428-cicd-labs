@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Selamat Datang di Aplikasi Belajar CI Pipeline pokonya madep</h1>
         </header>
         <p className="App-intro">
-          Untuk memulai, edit <code>src/App.js</code> dan simpan untuk memuat ulang.
+          Untuk memulai, edit <code>src/App.js</code> dan simpan untuk memuat ulang dan jalankan.
         </p>
         <p className="App-description">
           Tangerang adalah sebuah kota yang berada di Provinsi Banten, Indonesia. 
