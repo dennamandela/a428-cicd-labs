@@ -7,15 +7,4 @@ node {
       sh './jenkins/scripts/test.sh'
     }
   }
-  post {
-    always {
-      echo 'Pipeline completed.'
-    }
-    success {
-      echo 'Pipeline succeeded.'
-    }
-    failure {
-      echo 'Pipeline failed.'
-    }
-  }  
 }         
