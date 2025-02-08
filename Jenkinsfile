@@ -16,6 +16,7 @@ node {
           input message: 'Lanjutkan ke tahap deploy? (Klik "Proceed" untuk melanjutkan atau "Abort" untuk membatalkan)'
         } catch (err) {
           error("Deployment aborted by user.")
+        }
       }
     }
 
